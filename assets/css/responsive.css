@@ -1235,6 +1235,9 @@
         color: #ee6c20;
         margin: 0.6rem 0rem 0rem 0.3rem;
     }
+    .mob{
+        margin-bottom: 15px;
+    }
     .single-services-card h3 {
         font-size: 16px;
     }
@@ -1382,6 +1385,9 @@
         font-size: 2rem;
         color: #ee6c20;
         margin: 0.6rem 0rem 0rem 0.3rem;
+    }
+    .mob{
+        margin-bottom: 15px;
     }
     .pt-100 {
         padding-top: 80px;
