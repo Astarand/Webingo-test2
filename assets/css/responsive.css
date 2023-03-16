@@ -1,4 +1,12 @@
 @media only screen and (max-width: 767px) {
+    .services-icon i {
+        font-size: 1.5rem;
+        color: #ee6c20;
+        margin: 0.6rem 0rem 0rem 0.3rem;
+    }
+    .mob{
+        margin-bottom: 25px;
+    }
     .pt-100 {
         padding-top: 60px;
     }
@@ -1222,6 +1230,11 @@
     }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
+    .services-icon i {
+        font-size: 1.5rem;
+        color: #ee6c20;
+        margin: 0.6rem 0rem 0rem 0.3rem;
+    }
     .single-services-card h3 {
         font-size: 16px;
     }
@@ -1365,6 +1378,11 @@
     }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .services-icon i {
+        font-size: 2rem;
+        color: #ee6c20;
+        margin: 0.6rem 0rem 0rem 0.3rem;
+    }
     .pt-100 {
         padding-top: 80px;
     }
@@ -2333,6 +2351,9 @@
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .section-title {
         margin-bottom: 30px;
+    }
+    .mob{
+        margin-bottom: 15px;
     }
     .section-title .top-title {
         font-size: 18px;
@@ -3328,6 +3349,9 @@
     .section-title {
         margin-bottom: 30px;
     }
+    .mob{
+        margin-bottom: 15px;
+    }
     .section-title .top-title {
         font-size: 18px;
     }
@@ -4157,6 +4181,10 @@
     .subscribe-from .newsletter-form .form-control {
         padding: 21px 20px;
     }
+    .services-icon i{
+        font-size: 1rem;
+        color: #ee6c20;
+    }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1320px) {
     .experts-slider.owl-theme .owl-nav [class*="owl-"] {
@@ -4329,6 +4357,10 @@
     }
     .banner-three-area .banner-three-img11 {
         display: none;
+    }
+    .services-icon i{
+        font-size: 1rem;
+        color: #ee6c20;
     }
 }
 @media only screen and (min-width: 1500px) and (max-width: 1599px) {
